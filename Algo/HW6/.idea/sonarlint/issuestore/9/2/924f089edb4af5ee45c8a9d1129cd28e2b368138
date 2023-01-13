@@ -1,0 +1,10 @@
+
+9
+java:S1643"Use a StringBuilder instead.(ÁÕİ×8øÂñıÀ0
+>
+java:S1643 "Use a StringBuilder instead.(‰±øÿÿÿÿ8¨ÁôıÀ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´Ë¨
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(”‡Ûûÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ê²Ãıÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(‚ÓÀÙıÿÿÿÿ8îÒëıÀ0
